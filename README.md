@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently studying **Bachelor of Science in Information Technology**
 - 🌱 I’m currently learning **Full Stack Development**
-- 💬 Ask me about ...
 - 📫 How to reach me: **ejsupremo2004@gmail.com**
 - ⚡ Fun fact: **I do graphic designing**
 
