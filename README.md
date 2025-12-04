@@ -11,3 +11,7 @@
 - ⚡ Fun fact: **I do graphic designing.**
 
   
+<h3 aligh="left">Socials:</h3>
+<p align="left">
+  <a href="https://www.instagram.com/ihhjxy/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ihjayyy" height="30" width="40" /></a>
+</p>
