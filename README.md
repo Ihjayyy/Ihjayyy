@@ -25,8 +25,6 @@
   <img align="center" src="https://logo.svgcdn.com/logos/java.svg" alt="java" height="40" width="40" />
   <img align="center" src="https://logo.svgcdn.com/logos/python.svg" alt="python" height="40" width="40" />
   <img align="center" src="https://logo.svgcdn.com/logos/php.svg" alt="mysql" height="40" width="40" />
-  <img align="center" src="https://logo.svgcdn.com/logos/react.svg" alt="react" height="40" width="40" />
-  <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="40" width="40" />
   <img align="center" src="https://logo.svgcdn.com/logos/mysql.svg" alt="mysql" height="40" width="40" />
   <img align="center" src="https://logo.svgcdn.com/logos/git.svg" alt="git" height="40" width="40" />
 </p>
